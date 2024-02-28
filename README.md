@@ -1,10 +1,10 @@
 <a href="https://app.daily.dev/justinmenard"><img src="https://github.com/JusteUn/JusteUn/blob/main/devcard.png" width="400" align="right" alt="Justin Menard's Dev Card"/></a>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justin Menard
-=====================================================================================================================================
+
 
 Junior FullStack Developer
---------------------------
+
 
 
 I've been learning to code for 4/5 years at school. I'm passionate about software development and discovering new technologies.

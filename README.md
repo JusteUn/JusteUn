@@ -1,9 +1,9 @@
 <a href="https://app.daily.dev/justinmenard"><img src="https://github.com/JusteUn/JusteUn/blob/main/devcard.png" width="400" align="right" alt="Justin Menard's Dev Card"/></a>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justin Menard
+<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justin Menard</h1>
 
 
-## Junior FullStack Developer
+<h2>Junior FullStack Developer</h2>
 
 
 

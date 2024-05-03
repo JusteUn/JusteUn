@@ -11,7 +11,7 @@ I've been learning to code for 4/5 years at school. I'm passionate about softwar
 
 *   🌍  I'm based in Nantes, France & Bruxelles, Belgium
 *   ✉️  You can contact me at [justinmenard@orange.fr](mailto:justinmenard@orange.fr)
-*   🧠  I'm learning AdonisJS V6 for backend development
+*   🧠  I'm learning VueJS
 
 ### Skills 
 <p align="left">

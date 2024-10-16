@@ -9,9 +9,8 @@ Junior FullStack Developer
 
 I've been learning to code for 4/5 years at school. I'm passionate about software development and discovering new technologies.
 
-*   🌍  I'm based in Nantes, France & Bruxelles, Belgium
+*   🌍  I'm based in Nantes, France
 *   ✉️  You can contact me at [justinmenard@orange.fr](mailto:justinmenard@orange.fr)
-*   🧠  I'm learning VueJS
 
 ### Skills 
 <p align="left">
